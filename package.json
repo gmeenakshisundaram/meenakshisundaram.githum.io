@@ -1,7 +1,7 @@
 {
   "name": "portfolio-react",
   "private": true,
-  "homepage": "https://gmeenakshisundaram.github.io/meenakshisundaram.githum.io",
+  "homepage": ".",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
